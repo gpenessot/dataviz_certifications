@@ -78,6 +78,6 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## Contact
 
-Gaël Penessot - [LinkedIn]([https://twitter.com/votre_twitter](https://www.linkedin.com/in/gael-penessot/)
+Gaël Penessot - [LinkedIn](https://www.linkedin.com/in/gael-penessot/)
 
 Lien du projet : [https://github.com/gpenessot/dataviz_certifications](https://github.com/gpenessot/dataviz_certifications)
