@@ -52,7 +52,10 @@ certification-dashboard/
 ├── data/
 │   └── cleaned_data.csv
 │
+├── cert_radial_tree_graph.html
+│
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
@@ -81,3 +84,5 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 Gaël Penessot - [LinkedIn](https://www.linkedin.com/in/gael-penessot/)
 
 Lien du projet : [https://github.com/gpenessot/dataviz_certifications](https://github.com/gpenessot/dataviz_certifications)
+
+Aperçu du graphe : [Radial Tree](https://github.com/gpenessot/dataviz_certifications/cert_radial_tree_graph.html)
