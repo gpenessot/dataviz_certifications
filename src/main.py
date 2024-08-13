@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import json
 from graph import CertificationGraph
 from analysis import display_kpis, display_analysis_graphs
