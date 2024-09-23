@@ -65,6 +65,11 @@ certification-dashboard/
 - `src/utils.py` : Fonctions utilitaires diverses
 - `data/cleaned_data.csv` : Fichier de données des certifications (non inclus dans le repo)
 
+## Démonstration
+
+Le graphe est visible sur cette [page](https://gpenessot.github.io/dataviz_certifications/cert_radial_tree_graph.html).
+
+![](./img/sreenshot.png)
 ## Contribution
 
 Les contributions à ce projet sont les bienvenues. Veuillez suivre ces étapes pour contribuer :
